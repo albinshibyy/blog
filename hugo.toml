@@ -1,4 +1,4 @@
-baseURL = 'https://albinshibyy.github.io/'
+baseURL = 'https://albinshibyy.github.io/blog'
 languageCode = 'en-us'
 title = '@albinshibyy | Blog'
 theme = 'hugo-blog-awesome'
